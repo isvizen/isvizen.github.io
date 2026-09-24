@@ -1,1 +1,0 @@
-/home/vizen/.df/i
